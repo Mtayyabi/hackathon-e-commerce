@@ -1,9 +1,8 @@
 import Counter from "../(cartCounter)/counter"
-import Image from "next/image"
 import { RiDeleteBinLine } from "react-icons/ri";
 import { FiTag } from "react-icons/fi";
 import { GoArrowRight } from "react-icons/go";
-import { client } from "@/sanity/lib/client";
+// import { client } from "@/sanity/lib/client";
 
 
 

@@ -1,4 +1,4 @@
-import Image from "next/image";
+// import Image from "next/image";
 import Home0 from "./components/(home)/(heroSection)/home0";
 import Home1 from "./components/(home)/(heroSection)/home1";
 import Home2 from "./components/(home)/(heroSection)/home2";

@@ -1,5 +1,5 @@
 import * as React from "react"
-import { ChevronLeft, ChevronRight, MoreHorizontal } from "lucide-react"
+import { MoreHorizontal } from "lucide-react"
 import { HiOutlineArrowSmallLeft } from "react-icons/hi2";
 import { HiOutlineArrowSmallRight } from "react-icons/hi2";
 

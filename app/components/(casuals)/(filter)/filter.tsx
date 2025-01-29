@@ -3,7 +3,7 @@ import Link from "next/link";
 import { IoIosArrowForward } from "react-icons/io";
 import { GoChevronUp } from "react-icons/go";
 import { Slider } from "@/components/ui/slider"
-import App from "../../(slider)/slider";
+// import App from "../../(slider)/slider";
 
 
 
